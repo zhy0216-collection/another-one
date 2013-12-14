@@ -1,0 +1,40 @@
+.juanlian,
+.kongjian,.pengyou,.weibo,
+#teames,
+.webadd,
+.tosina,
+.qqmail,
+#shareWx{
+    display: none !important;
+}
+
+.wrap {
+width: 800px;
+margin: 20px auto;
+}
+
+.mainBox {
+width: 710px;
+
+}
+.mainBox .hd {
+background-position: 0px 0;
+height: 4px;
+overflow: hidden;
+width: 710px;
+}
+body {
+font-family: "宋体","Arial Narrow",sans-serif;
+font: 12px/1.75 Tahoma,Arial,sans-serif;
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, input, textarea, p, blockquote, th, td {
+margin: 0;
+padding: 0;
+}
+.mainBox .bd {
+background-position: -715px 0;
+padding: 30px 40px 30px 30px;
+}
+.mainBox .hd, .mainBox .ft {
+background: url(http://mat1.gtimg.com/news/theone/midBg.jpg) repeat-y;
+}

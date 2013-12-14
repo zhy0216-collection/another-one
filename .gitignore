@@ -1,0 +1,10 @@
+*.pyc
+.webassets-cache
+dist/
+local_conf.py
+local_settings.py
+*.nja
+.coverage
+logs/
+run/
+main_bundle.js
